@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/aker-cl/reactivejs/issues"
   },
-  "homepage": "https://github.com/aker-cl/reactivejs#readme"
+  "homepage": "https://github.com/aker-cl/reactivejs#readme",
+  "dependencies": {
+    "teseract-domqueryjs": "^1.0.1"
+  }
 }
