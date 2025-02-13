@@ -1,0 +1,22 @@
+{
+  "name": "teseract-reactivejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aker-cl/reactivejs.git"
+  },
+  "keywords": [
+    "reactive"
+  ],
+  "author": "Teseract",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aker-cl/reactivejs/issues"
+  },
+  "homepage": "https://github.com/aker-cl/reactivejs#readme"
+}
